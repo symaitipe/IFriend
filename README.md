@@ -1,0 +1,2 @@
+# IFriend
+Java console application
